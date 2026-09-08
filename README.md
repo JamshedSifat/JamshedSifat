@@ -1,153 +1,83 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Jamshed Sifat 👋</h1>
+<h3 align="center">Software Engineer | Backend Developer</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0f,50:3b0a0a,100:dc2626&height=180&section=header&text=MD%20JAMSHED%20SIFAT&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20CSE%20Student%20%7C%20Robotics%20%26%20IoT&descAlignY=60&descSize=17" width="100%" />
-
-### Software Developer • Problem Solver • Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=FF4D4D&center=true&vCenter=true&width=760&lines=Designing+clean+and+modern+software;React+%7C+TypeScript+%7C+JavaScript;Python+%7C+Django+%7C+Node.js;Exploring+AI%2C+IoT+%26+Robotics;Turning+ideas+into+working+products+%F0%9F%9A%80" alt="Typing animation" />
-
-<p>
-<a href="https://github.com/JamshedSifat"><img src="https://img.shields.io/badge/GitHub-JamshedSifat-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=JamshedSifat&style=for-the-badge&color=dc2626" alt="Profile views" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Backend+Developer;Python+%7C+Java+%7C+Node.js;PostgreSQL+%7C+C+%7C+React;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
-</div>
+<p align="center">
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=JamshedSifat&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" /></a>
+  <a href="https://github.com/JamshedSifat?tab=followers"><img src="https://img.shields.io/github/followers/JamshedSifat?label=Followers&style=flat&color=2E9EF7" alt="followers" /></a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-I'm a **Computer Science & Engineering student and Software Developer** who enjoys building reliable, modern and user-focused software.
-
-My interests span from application development and backend engineering to **AI, embedded systems, IoT and robotics**. I enjoy learning by building real projects and solving practical problems.
-
-- 💻 Software Development & Application Engineering
-- ⚛️ React, TypeScript & modern JavaScript
-- 🐍 Python, Django & backend development
-- 🟢 Node.js & API development
-- 🤖 Embedded Systems, IoT & Robotics
-- 🧠 AI-driven automation & intelligent systems
-- 🧩 Problem solving, clean code & continuous learning
+- 🔭 I'm a **Software Engineer** focused on **backend development**
+- 🌱 Constantly learning new tools, frameworks, and best practices
+- 💡 Comfortable building APIs, working with databases, and connecting them to clean frontend interfaces
+- ⚡ Fun fact: I enjoy solving real-world problems with efficient, well-structured code
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
+### 🛠️ Tech Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" alt="Programming languages" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-<br><br>
+**Backend & Runtime**
 
-**Development**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite,nodejs,django" alt="Development technologies" />
+**Frontend**
 
-<br><br>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 **Database & Tools**
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" alt="Database and tools" />
-
-<br><br>
-
-**Embedded & Robotics**
-
-<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
-
-`ESP32` `IoT` `Sensors` `Motor Drivers` `Robotics`
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### 📊 GitHub Stats
 
-### 🏥 SmartHealthCare
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JamshedSifat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JamshedSifat&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
 
-A Django-based healthcare platform focused on practical digital healthcare solutions.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamshedSifat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-**Features:** Appointment Booking • Medicine Reminders • Diet Compatibility • Account Management
-
-**Stack:** `Python` `Django` `JavaScript`
-
-### 🛒 SportNest
-
-A Django-based e-commerce application for product and shopping management.
-
-**Focus:** Product Management • Customer Workflow • Shopping Functionality
-
-**Stack:** `Python` `Django` `JavaScript` `HTML/CSS`
-
-### 🌱 Plant Shop
-
-A modern React application powered by API-based plant data with a responsive user interface.
-
-**Stack:** `React` `JavaScript` `Tailwind CSS` `API Integration`
-
-### 🤖 Robotics & Embedded Systems
-
-Hands-on projects combining microcontrollers, sensors, motors and control logic.
-
-**Projects:** Fire Fighting Robot • Maze Solving Robot • Self-Balancing Robot • Traffic Light System • Ultrasonic Sensor System
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JamshedSifat&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
 
 ---
 
-## 🧠 What I'm Exploring
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" />
+</p>
 
-- ⚛️ Advanced React & TypeScript
-- 🐍 Django REST Framework & API Architecture
-- 🟢 Node.js & modern backend development
-- 🧠 AI-powered automation
-- 🤖 Arduino, ESP32 & IoT systems
-- 🧩 Data Structures, Algorithms & Software Engineering
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JamshedSifat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="175" alt="GitHub statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamshedSifat&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=JamshedSifat&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## 💡 Developer Mindset
-
-<div align="center">
-
-> **Build with purpose. Keep learning. Write better code.**
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/JamshedSifat">
-<img src="https://img.shields.io/badge/GitHub-Profile-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,50:3b0a0a,100:0b0b0f&height=110&section=footer" width="100%" />
-
-**Thanks for visiting my profile. ⭐**
-
-</div>
+<p align="center"><i>Thanks for stopping by — feel free to explore my repositories! 🚀</i></p>
