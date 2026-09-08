@@ -1,106 +1,146 @@
 <div align="center">
 
-# 👋 Hi, I'm MD Jamshed Sifat
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:06b6d4&height=190&section=header&text=MD%20JAMSHED%20SIFAT&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20CSE%20Student%20%7C%20Robotics%20Enthusiast&descAlignY=60&descSize=18" width="100%" />
 
-### CSE Student | Full-Stack Developer | Embedded Systems & Robotics Enthusiast
+<h2>Building software. Exploring intelligent systems. Engineering ideas.</h2>
 
 <p>
-  <a href="https://github.com/JamshedSifat"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=JamshedSifat&style=for-the-badge" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=700&lines=Software+Developer;React+%7C+TypeScript+%7C+JavaScript;Python+%7C+Django+%7C+Node.js;Embedded+Systems+%7C+IoT+%7C+Robotics;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing animation" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=120&section=header" width="100%" />
+<p>
+  <a href="https://github.com/JamshedSifat"><img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=JamshedSifat&style=for-the-badge&color=06b6d4" alt="Profile views" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science & Engineering student who enjoys building practical software, intelligent systems, and embedded projects.
+> **Computer Science & Engineering student focused on building modern software and practical intelligent systems.**
 
-- 💻 Interested in Full-Stack Web Development and Software Engineering
-- 🤖 Passionate about Embedded Systems, IoT & Robotics
-- 🧠 Exploring AI-driven automation and intelligent scheduling systems
-- 🔧 Building projects with Arduino, ESP32 and microcontrollers
-- 🌱 Always learning new technologies and improving my problem-solving skills
-- 🎯 Goal: Build useful products that connect software, hardware and intelligent automation
+I'm a Software Developer who enjoys turning ideas into clean, functional and user-focused applications. Alongside software development, I explore embedded systems, IoT and robotics to understand how software can interact with the real world.
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming
-
-<p><img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" alt="Programming languages" /></p>
-
-### 🌐 Web Development
-
-<p><img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,django,vite" alt="Web technologies" /></p>
-
-### 🗄️ Database & Tools
-
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" alt="Database and tools" /></p>
-
-### 🤖 Embedded & Robotics
-
-<p><img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" /> <strong>ESP32 • Sensors • Motor Drivers • IoT • Robotics</strong></p>
+- 💻 Software Development & Web Application Engineering
+- ⚛️ React, TypeScript & modern JavaScript ecosystem
+- 🐍 Python, Django & backend development
+- 🤖 Embedded Systems, IoT & Robotics
+- 🧠 AI-powered automation and intelligent systems
+- 🧩 Strong interest in problem solving and continuous learning
 
 ---
 
-## 🔥 Featured Projects
-
-### 🏥 SmartHealthCare
-
-A Django-based healthcare platform with:
-- 📅 Appointment booking
-- 💊 Medicine reminders
-- 🥗 Diet compatibility
-- 👤 User/account management
-
-**Tech:** Django • Python • HTML • CSS • JavaScript
-
-### 🛒 SportNest
-
-A Django-based e-commerce platform for managing products, customers and shopping functionality.
-
-**Tech:** Django • Python • JavaScript • HTML/CSS • Database
-
-### 🌱 Plant Shop
-
-A modern plant-shopping web application using API-based dynamic plant data.
-
-**Tech:** React • JavaScript • Tailwind CSS • API Integration
-
-### 🤖 Robotics & Embedded Projects
-
-- 🔥 Fire Fighting Robot
-- 🧭 Obstacle Avoiding & Maze Solving Robot
-- ⚖️ Self-Balancing Robot
-- 🚦 Traffic Light Control System
-- 📡 Ultrasonic Distance Sensor projects
-
----
-
-## 📚 Currently Learning
-
-- ⚛️ Advanced React & Full-Stack Development
-- 🐍 Django REST API & Backend Development
-- 🟢 Node.js & Modern JavaScript
-- 🤖 Arduino / ESP32 & IoT
-- 🧠 AI-powered Automation & Intelligent Systems
-- 🧩 Algorithms & Problem Solving
-
----
-
-## 📊 GitHub Stats
+## 🧰 Technology Arsenal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JamshedSifat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamshedSifat&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" alt="Languages" />
+</p>
 
-<br />
+### Frontend & Backend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,vite,nodejs,django" alt="Frontend and backend technologies" />
+</p>
+
+### Database, Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" alt="Tools and platforms" />
+</p>
+
+### Embedded & Robotics
+<p>
+<img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+&nbsp;&nbsp; <strong>ESP32</strong> • <strong>IoT</strong> • <strong>Sensors</strong> • <strong>Motor Drivers</strong> • <strong>Robotics</strong>
+</p>
+
+</div>
+
+---
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 SmartHealthCare
+
+A Django-based healthcare platform designed around practical digital healthcare features.
+
+**Highlights**
+- Appointment booking
+- Medicine reminders
+- Diet compatibility
+- Account management
+
+`Django` `Python` `JavaScript`
+
+</td>
+<td width="50%">
+
+### 🛒 SportNest
+
+A Django-based e-commerce platform focused on product and shopping management.
+
+**Highlights**
+- Product management
+- Customer functionality
+- Shopping workflow
+- Backend-driven architecture
+
+`Django` `Python` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌱 Plant Shop
+
+A modern React application using API-driven plant data with a responsive interface.
+
+`React` `JavaScript` `Tailwind CSS` `API`
+
+</td>
+<td width="50%">
+
+### 🤖 Robotics Lab
+
+Hands-on embedded projects combining sensors, microcontrollers, motors and control logic.
+
+`Arduino` `ESP32` `Sensors` `IoT`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 Engineering Projects
+
+| Project | Focus |
+| --- | --- |
+| 🔥 Fire Fighting Robot | Flame detection • Ultrasonic sensing • Motor control |
+| 🧭 Obstacle Avoiding & Maze Robot | IR sensing • HC-SR04 • Navigation logic |
+| ⚖️ Self-Balancing Robot | MPU6050 • Motor control • PID concepts |
+| 🚦 Traffic Light System | Arduino • LEDs • Servo control |
+| 📡 Ultrasonic Sensor System | Distance measurement • Embedded programming |
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JamshedSifat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamshedSifat&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages" />
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=JamshedSifat&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
@@ -108,18 +148,58 @@ A modern plant-shopping web application using API-based dynamic plant data.
 
 ---
 
-## 🤝 Let's Connect
+## 🧭 Current Focus
 
-I'm interested in collaborating on projects involving **Web Development, Robotics, IoT, AI and intelligent automation**.
+```text
+Software Engineering     ████████████████████░  90%
+React & TypeScript       ██████████████████░░░  85%
+Python & Django          █████████████████░░░░  80%
+Backend Development      ████████████████░░░░░  75%
+IoT & Robotics           ███████████████░░░░░░  70%
+AI & Intelligent Systems █████████████░░░░░░░░  65%
+```
 
-<p align="center">
-  <a href="https://github.com/JamshedSifat"><img src="https://img.shields.io/badge/GitHub-JamshedSifat-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-</p>
+---
+
+## 🌱 Currently Learning
+
+- ⚛️ Advanced React & TypeScript
+- 🐍 Django REST API
+- 🟢 Node.js & modern backend development
+- 🧠 AI-powered automation
+- 🤖 Arduino / ESP32 / IoT systems
+- 🧩 Data Structures, Algorithms & Software Engineering
+
+---
+
+## 💡 Developer Philosophy
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+**"Build with purpose. Learn continuously. Improve every iteration."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=100&section=footer" width="100%" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to learning, collaboration and building meaningful projects around **Software Development, AI, IoT and Robotics**.
+
+<div align="center">
+
+<a href="https://github.com/JamshedSifat">
+<img src="https://img.shields.io/badge/GitHub-JamshedSifat-111827?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=120&section=footer" width="100%" />
+
+### ⭐ Thanks for visiting my profile!
 
 </div>
